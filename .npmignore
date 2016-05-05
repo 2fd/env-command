@@ -3,13 +3,12 @@ logs
 *.log
 npm-debug.log*
 
-# node-waf configuration
-.lock-wscript
-
 # Dependency directory
 .vscode
 node_modules
+test
 typings
 
-# Conpiled files
-*.js
+# Source files
+.gitignore
+*.ts
