@@ -1,5 +1,5 @@
 {
-  "name": "@2fd/env-find-command",
+  "name": "@2fd/env-command",
   "version": "0.0.0",
   "description": "Command to search in the environment variables",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/2fd/env-find-command.git"
+    "url": "git+https://github.com/2fd/env-command.git"
   },
   "keywords": [
     "command",
@@ -18,9 +18,9 @@
   "author": "Fede Ramirez <i@2fd.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/2fd/env-find-command/issues"
+    "url": "https://github.com/2fd/env-command/issues"
   },
-  "homepage": "https://github.com/2fd/env-find-command#readme",
+  "homepage": "https://github.com/2fd/env-command#readme",
   "devDependencies": {
     "@2fd/command": "^0.2.0",
     "chai": "^3.5.0",
